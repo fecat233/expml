@@ -1,4 +1,4 @@
-# 创建数据集
+# 创建数据库
 CREATE DATABASE IF NOT EXISTS expml;
 
 # 删除数据库
